@@ -1,6 +1,6 @@
 {
   "name": "spectacle-theme-solarized-dark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A theme for Spectacle based on Solarized (Dark)",
   "main": "dist/index.js",
   "scripts": {
