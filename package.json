@@ -1,0 +1,25 @@
+{
+  "name": "spectacle-theme-solarized-dark",
+  "version": "1.0.0",
+  "description": "A theme for Spectacle based on Solarized (Dark)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bspaulding/spectacle-theme-solarized-dark.git"
+  },
+  "keywords": [
+    "spectacle",
+    "theme",
+    "solarized",
+    "dark"
+  ],
+  "author": "Bradley J. Spaulding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bspaulding/spectacle-theme-solarized-dark/issues"
+  },
+  "homepage": "https://github.com/bspaulding/spectacle-theme-solarized-dark#readme"
+}
