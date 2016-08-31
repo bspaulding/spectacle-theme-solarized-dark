@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/bspaulding/spectacle-theme-solarized-dark/issues"
   },
-  "homepage": "https://github.com/bspaulding/spectacle-theme-solarized-dark#readme"
+  "homepage": "https://github.com/bspaulding/spectacle-theme-solarized-dark#readme",
+  "devDependencies": {
+    "babel-cli": "6.14.0"
+  }
 }
