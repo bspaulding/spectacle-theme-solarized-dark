@@ -16,6 +16,10 @@ export const theme = {
 		...initialTheme.screen,
 		components: {
 			...initialTheme.screen.components,
+			code: {
+				...initialTheme.screen.components.code,
+				color: initialTheme.screen.colors.quartenary
+			},
 			text: {
 				...initialTheme.screen.components.text,
 				color: initialTheme.screen.colors.quartenary
