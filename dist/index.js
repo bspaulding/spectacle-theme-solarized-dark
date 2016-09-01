@@ -26,6 +26,9 @@ var initialTheme = (0, _default2.default)({
 var theme = exports.theme = _extends({}, initialTheme, {
 	screen: _extends({}, initialTheme.screen, {
 		components: _extends({}, initialTheme.screen.components, {
+			code: _extends({}, initialTheme.screen.components.code, {
+				color: initialTheme.screen.colors.quartenary
+			}),
 			text: _extends({}, initialTheme.screen.components.text, {
 				color: initialTheme.screen.colors.quartenary
 			}),
